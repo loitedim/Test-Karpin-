@@ -1,9 +1,7 @@
 # Test-Karpin-
-
-Наш первый репозиторий(Учитель)
-Денис QA-416
-
 Наш первый репозиторий
+
+Добрый вечер 
 
 Кошки, Сороки
 
@@ -19,7 +17,7 @@
 
 Привет мир
 
-Wishing you a speedy recovery
+Wishing you a speedy recovery(СПАСИБО)
 
 Всем добра и позитива
 
@@ -30,4 +28,3 @@ Wishing you a speedy recovery
 Привет!
 
 Привет группа
-
