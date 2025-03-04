@@ -17,6 +17,8 @@
 
 Привет мир
 
+калинка - малинка
+
 Wishing you a speedy recovery(СПАСИБО)
 
 Всем добра и позитива
@@ -30,3 +32,4 @@ Wishing you a speedy recovery(СПАСИБО)
 Привет группа
 
 Всем добра
+
